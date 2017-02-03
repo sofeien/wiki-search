@@ -1,0 +1,10 @@
+body {
+    overflow-y: visible;
+}
+h1 {
+    margin: 30px auto;
+}
+
+div.row {
+    margin: 30px auto;
+}
